@@ -17,7 +17,7 @@ public class App {
     @GetMapping("/")
     public String home(Model model) {
         // Pass the header text to the view
-        model.addAttribute("header", "CCIT-hyd");
+        model.addAttribute("header", "CCIT-hyd123");
         return "index"; // Return the index.html template
     }
 }
