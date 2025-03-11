@@ -15,7 +15,7 @@
   <groupId>com.example</groupId>
   <artifactId>mywebapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>My Spring Boot Web App</name>
   <description>Cloud Computing in Telugu Web Application</description>
